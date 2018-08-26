@@ -20,6 +20,8 @@ Engine/Binaries/ThirdParty/PhysX3/Mac/libAPEX_LegacyPROFILE.dylib
 Engine/Binaries/ThirdParty/PhysX3/Mac/libApexFrameworkPROFILE.dylib
 Engine/Binaries/ThirdParty/PhysX3/Mac/libNvClothPROFILE.dylib
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_10/osx32/libopenvr_api.dylib
+OscDemo/Content/Movies/.DS_Store
+OscDemo/Content/Movies/AtomBomb.mp4
 OscDemo/Content/Movies/correct.mov
 OscDemo/Content/Movies/incorrect.mov
 OscDemo/Content/Movies/launch1.mp4
